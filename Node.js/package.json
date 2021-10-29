@@ -1,0 +1,26 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kseniia-QA/Node.js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "kseniia",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kseniia-QA/Node.js/issues"
+  },
+  "homepage": "https://github.com/kseniia-QA/Node.js#readme",
+  "devDependencies": {
+    "eslint": "^8.1.0",
+    "prettier": "2.4.1"
+  }
+}
